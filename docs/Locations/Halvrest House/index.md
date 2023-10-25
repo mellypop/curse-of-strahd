@@ -1,6 +1,10 @@
 ---
-aliases: [The Ruins of Castle Laventz]
+aliases:
+  - The Ruins of Castle Laventz
+tags:
+  - house-of-lament
 ---
+
 
 Formerly known as "Ruins of Castle Laventz", this manor house stands in disrepair connected to a tower from the original castle.
 
