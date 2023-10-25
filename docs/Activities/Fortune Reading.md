@@ -11,7 +11,7 @@ At the [[../Locations/Vistani Camp/index|Vistani Camp]], the party is given the 
 
 This card may be a reference to [[../Characters/Rudolph van Richten|Rudolph van Richten]] also known as Rictavio within [[../Locations/Barovia|Barovia]]. He was seen in [[../Locations/Vallaki/index|Vallaki]] putting on puppet shows for the local children. He was startled to see the party in [[../Locations/Vallaki/index|Vallaki]] and insisted on talking to them at the [[../Locations/Vallaki/Blue Water Inn|Blue Water Inn]] in private so that he could maintain his cover.
 
-He has information that may be useful about [[../Characters/Strahd von Zarovich|Strahd]], but it is in an old language that he has not been able to fully translate yet. He asked the party to meet him at a tower he has somewhat settled in so that he can more fully discuss this.
+He has information that may be useful about [[../Enemies/Strahd von Zarovich|Strahd]], but it is in an old language that he has not been able to fully translate yet. He asked the party to meet him at a tower he has somewhat settled in so that he can more fully discuss this.
 
 ## Powerful Force of Good and Protection/Holy symbol of great hope: The Myrmidon
 > This card tells of a powerful force for good and protection, a holy symbol of great hope…… Look for a den of wolves in the hills overlooking  a mountain lake. The treasure belongs to [[../Deities/Mother Night|Mother Night]].
