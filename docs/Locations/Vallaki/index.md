@@ -1,3 +1,10 @@
+---
+tags:
+  - town
+type: town
+---
+
+
 Supposedly a few days travel from the [[../Village of Barovia/index|Village of Barovia]], this town is said to be more fortified, and it is the place that [[../../Characters/Village of Barovia/Ismark|Ismark]] wants the party to take his sister [[../../Characters/Village of Barovia/Irena|Irena]].
 
 The [[../../Characters/Vallaki/Burgomaster Vargas|Burgomaster Vargas]] seems to owe [[../../Characters/Village of Barovia/Ismark|Ismark]] and [[../../Characters/Village of Barovia/Irena|Irena]]'s family a favor.
