@@ -1,5 +1,5 @@
 ## Party
-![[../Party/Current Party|Current Party]]
+![[./Current Party|Current Party]]
 ## Quests
 ![[./Current Quests|Current Quests]]
 ## Sessions
