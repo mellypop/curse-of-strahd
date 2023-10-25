@@ -1,7 +1,6 @@
 ---
 tags:
   - camp
-  - Vistani
 type: camp
 ---
 
