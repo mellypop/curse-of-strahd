@@ -1,3 +1,11 @@
+---
+tags:
+  - camp
+  - Vistani
+type: camp
+---
+
+
 Horse carts are clustered around a tent near the top of a hill in the woods. This is of a similar size to the [[../Vistani Camp/index|Vistani Camp (Village of Barovia)]] but seemingly more permanent. [[../../Characters/Vallaki/Vistani Camp/Arugal|Arugal]] is the leader of this camp, and he lives in the largest tent with his brother [[../../Characters/Vallaki/Vistani Camp/Lou Vaash|Lou Vaash]] and daughter [[../../Characters/Vallaki/Vistani Camp/Arabel|Arabel]].
 
 ## Notes

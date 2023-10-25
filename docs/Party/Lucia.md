@@ -1,8 +1,20 @@
 ---
-race: ???
+alive: "true"
 class: Ranger
+description: A person who appears to be human with bluish silver hair and eyes, wearing a cloak and basic leathers. She looks like she may be from the mountains.
 player: Elizabeth
+race: ???
 role: party
 ---
+|     | Value           |
+| ------ | --------------- |
+| **Player** | Elizabeth |
+| **Class**  | Ranger  |
+| **Race**   | ???   |
+| **Status** | ✅ | 
 
-A human with bluish silver hair and eyes, wearing a cloak and basic leathers. She looks like she may be from the mountains.
+# Description
+
+> [!quote] A person who appears to be human with bluish silver hair and eyes, wearing a cloak and basic leathers. She looks like she may be from the mountains.
+
+# Notes

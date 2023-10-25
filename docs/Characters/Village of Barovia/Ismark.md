@@ -1,6 +1,6 @@
 ![[../../Images/Characters/Ismark.png|400]]
 
-This charismatic seeming man joined the party's table at the [[../../Locations/Village of Barovia/Locations/Blood on the Vine|Blood on the Vine]] tavern. He seemed saddened about the party not wanting to stay in the village and is very interested in what the party is up to.
+This charismatic seeming man joined the party's table at the [[../../Locations/Village of Barovia/Blood on the Vine|Blood on the Vine]] tavern. He seemed saddened about the party not wanting to stay in the village and is very interested in what the party is up to.
 
 He talked about [[../../Enemies/Strahd von Zarovich|Strahd]] having been in the area for a long while with nobody seeming to know his true age, but he would
 
