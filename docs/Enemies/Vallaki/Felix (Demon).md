@@ -1,0 +1,1 @@
+This demon had been impersonating [[../../Characters/Vallaki/Felix|Felix]] for an undetermined amount of time. The party discovered it in the attic of [[../../Locations/Vallaki/St. Andril's Orphanage|St. Andril's Orphanage]]
