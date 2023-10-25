@@ -1,0 +1,4 @@
+---
+allegiances: 
+status: dead
+---
