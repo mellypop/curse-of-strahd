@@ -1,3 +1,9 @@
+---
+tags:
+  - former-party-member
+---
+
+
 Zarathustra is a pacifist druid, often staying out of combat. She is strong-willed, even refusing to scream in pain after losing her leg.
 
 After the second seance, Zarathustra became agitated and rushed out of the house and into [[../../Forces/The Mists|The Mists]], which sent her running back toward the house. After a slower attempt, she realized that going through was not possible. She was then struck by a rock that [[../Thorn|Thorn]] threw into [[../../Forces/The Mists|The Mists]]
@@ -10,6 +16,4 @@ At this point, the party knocked her out, gave her a Greater Healing Potion, and
 
 ## Notes
 - After the events of House of Lament, Zarathustra decided to part ways with the party.
-
-#party-member
 
