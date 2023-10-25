@@ -34,7 +34,7 @@ theme:
         - navigation.indexes
         - navigation.path
         - navigation.top
-        #- navigation.tabs
+        - navigation.tabs
         - navigation.tabs.sticky
         - navigation.expand
         - search.suggest
@@ -78,15 +78,6 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-nav:
-  - Home: index.md
-  - Activities: Activities/index.md
-  - Characters: Characters/index.md
-  - Enemies: Enemies/index.md
-  - Forces: Forces/index.md
-  - Items: Items/index.md
-  - Locations: Locations/index.md
-  - Sessions: Sessions/index.md
 plugins:
   - search
   - meta-descriptions
