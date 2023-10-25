@@ -1,6 +1,9 @@
 ---
 location: "[[Halvrest House|Halvrest House]]"
+tags:
+  - house-of-lament
 ---
+
 
 After initially getting set up in the house, [[../Characters/Rudolph van Richten|Rudolph van Richten]] asked the group for help with a seance. He had found the [[../Items/Halvrest House/Spirit Board|Spirit Board]] in the house but needed the [[../Items/Halvrest House/Planchette|Planchette]]  and the party to actually perform a seance.
 
