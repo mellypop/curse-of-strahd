@@ -1,0 +1,1 @@
+Middle-aged, in his 30s. This man was found in [[../../../Locations/Vallaki/index|Vallaki]].
