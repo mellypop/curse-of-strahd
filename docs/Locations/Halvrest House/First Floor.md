@@ -1,6 +1,9 @@
 ---
 alias: First Floor
+tags:
+  - house-of-lament
 ---
+
 The first floor is where the party first entered.
 
 ## Rooms
