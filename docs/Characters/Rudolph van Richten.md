@@ -2,7 +2,10 @@
 aliases:
   - Rictavio
 enemies: "[[../Enemies/Strahd von Zarovich|Strahd von Zarovich]]"
+tags:
+  - house-of-lament
 ---
+
 Rudolph (or "Rudy") is a monster hunter who seems to be somewhat on in his years. He showed up to [[../Locations/Halvrest House/index|Halvrest House]] with a cache of equipment and tasked the adventurers with looking for paranormal events around the house.
 
 Occasionally he will ask the group to perform [[../Activities/Seances|Seances]] with him in order to contact the spirits of the house.

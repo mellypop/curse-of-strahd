@@ -1,7 +1,10 @@
 ---
-alias: "Blood of the Vine"
-type: "Tavern"
+alias: Blood of the Vine
+type: Tavern
+tags:
+  - tavern
 ---
+
 
 The sign out front of this tavern looks as if it used to say "Blood of the Vine". The bartender here seems to dissociate while cleaning the same piece of glassware and is not very responsive to conversation.
 

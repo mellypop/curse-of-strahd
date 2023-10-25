@@ -3,7 +3,10 @@ player: Elizabeth
 race: Tabaxi
 class: Barbarian
 role: party
+tags:
+  - party-member
 ---
+
 
 Frost is a Dhampir Barbarian.
 
