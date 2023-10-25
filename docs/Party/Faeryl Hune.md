@@ -1,11 +1,23 @@
 ---
-race: Dark Elf (Drow)
+alive: "true"
 class: Warlock
+description: 
 player: Mary
+race: Dark Elf (Drow)
 role: party
 tags:
   - party-member
 ---
 
+|     | Value           |
+| ------ | --------------- |
+| **Player** | Mary |
+| **Class**  | Warlock  |
+| **Race**   | Dark Elf (Drow)   |
+| **Status** | ✅ | 
 
-#party-member
+# Description
+
+> [!quote] \-
+
+# Notes
