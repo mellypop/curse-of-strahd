@@ -1,6 +1,8 @@
 This page is meant to serve as an overview of recent and ongoing events. The tables here can be found in the [[Tables|Tables]] section if you want less clutter on your screen. You can also click on the little chain links above each table to be taken directly to that table.
 # Current Party
 
+![[Current Party|Current Party]]
+
 # Ongoing
 ## Open Questions
 
