@@ -1,1 +1,0 @@
-A worshipper of [[../Deities/Loviatar|Loviatar]] who discovered [[../Party/Thorn|Thorn]] on the run after causing hives and other such maladies to the local noble women. She taught [[../Party/Thorn|Thorn]] how to be a cleric of her deity.
