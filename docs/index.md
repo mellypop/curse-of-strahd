@@ -1,11 +1,13 @@
 ---
 share: "true"
 ---
+# Current Party
+![[./Tables/Current Party|Current Party]]
 
-## Ongoing
-### Open Questions
+# Ongoing
+## Open Questions
 
-### Quests
+## Quests
 - [[./Quests/Investigate Kidnappings in Daggerford|Investigate Kidnappings in Daggerford]]
 - [[./Quests/Kidnap Victor|Kidnap Victor]]
 - [[./Quests/Recover Missing Church Property|Recover Missing Church Property]]
@@ -15,7 +17,7 @@ share: "true"
 - [[./Quests/The Mists|The Mists]]
 - [[./Quests/The Broken One|The Broken One]]
 
-## Sessions
+# Sessions
 - [[./Sessions/2022-11-21|2022-11-21]]
 - [[./Sessions/2023-06-18|2023-06-18]]
 - [[./Sessions/2023-08-06|2023-08-06]]
