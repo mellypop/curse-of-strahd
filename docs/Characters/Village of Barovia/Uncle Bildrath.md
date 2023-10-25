@@ -1,0 +1,1 @@
+The shopkeeper of [[../../Locations/Village of Barovia/Locations/Bildrath Mercantile|Bildrath Mercantile]]
