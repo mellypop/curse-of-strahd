@@ -6,3 +6,6 @@
 | [[../Party/Lucia\|Lucia]]                               | Elizabeth | ???             | Ranger                                                 |
 | [[../Party/Thistle\|Thistle]]                           | Sam       | Changling       | <ul><li>Blood Hunter</li><li>Cleric (Nature)</li></ul> |
 | [[../Party/Thorn\|Thorn]]                               | Melody    | Dragonborn      | Cleric                                                 |
+
+
+^9fcc7c
