@@ -1,0 +1,1 @@
+At the encampment near [[../../../Locations/Vallaki/index|Vallaki]], he is the leader. He lives with his brother [[./Lou Vaash|Lou Vaash]]
