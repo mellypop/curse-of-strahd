@@ -1,18 +1,26 @@
 ---
-name: Thorn
-race: Dragonborn
+alive: "true"
 class: Cleric
+description: A pale white Dragonborn woman whose skin is covered with translucent emerald scales. Two segmeted horns curl backward, outward, and upward from her head, and she wears an eyepatch over her right eye.
+name: Thorn
 player: Melody
+race: Dragonborn
 role: party
+subclass: Death
 tags:
   - party-member
 ---
 
-# Thorn
-
-Class: Death Cleric
+|     | Value           |
+| ------ | --------------- |
+| **Player** | Melody |
+| **Class**  | Cleric  |
+| **Race**   | Dragonborn   |
+| **Status** | ✅ | 
 
 ## Description
+
+> [!quote] A pale white Dragonborn woman whose skin is covered with translucent emerald scales. Two segmeted horns curl backward, outward, and upward from her head, and she wears an eyepatch over her right eye.
 
 A 6'8" dragonborn woman with pale white skin covered with translucent emerald scales. On the front of her head, two segmented horns curl backward, outward, and upward. She has an eyepatch over her right eye, seemingly from some past injury.
 
