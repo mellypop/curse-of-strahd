@@ -1,0 +1,1 @@
+This section is intended for activities that the party may or may not have taken part in. This includes things like festivals, funerals, fortune readings, and any other meaningful activity that is not inherently tied to combat.
