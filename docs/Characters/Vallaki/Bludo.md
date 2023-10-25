@@ -1,0 +1,7 @@
+Bludo is a fisherman who lives in [[../../Locations/Vallaki/index|Vallaki]]. The other townspeople have described him as a particularly sad man, but none of the people, other than his somewhat nosy neighbor, seemed to know him very well.
+
+More than one person, [[./Fanya|Fanya]] and Bludo's neighbor included, mentioned hearing of or seeing him with [[./Vistani Camp/Arabel|Arabel]]. His interactions with the young girl were not seen as being sinister or malicious, but Bludo's neighbor and a few of the city guard mentioned that he had mentioned a "good luck charm" that he expected to help his luck with fishing.
+
+When the party found Bludo, he was fishing around for something in his boat on [[../../Locations/Lake Zarovich|Lake Zarovich]]. When called out to, the man was confused but continued what he was doing once he realized that the people calling out to him were strangers. He was then seen tossing a bag out of his boat into the [[../../Locations/Lake Zarovich|lake]] from which the party heard the screams of a child.
+
+The party leapt into action to save [[./Vistani Camp/Arabel|Arabel]] but quickly found a large [[../../Enemies/Lake Zarovich/Skeletal Shark|Skeletal Shark]] coming after her, and soon after, them. [[../../Party/Thorn|Thorn]] killed Bludo to make room on his small boat for the party to get [[./Vistani Camp/Arabel|Arabel]] back to shore safely.
