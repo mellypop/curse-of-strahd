@@ -5,7 +5,10 @@ class:
   - Cleric (Nature)
 player: Sam
 role: party
+tags:
+  - party-member
 ---
+
 
 Thistle is a Changeling werewolf who is married to [[./Thorn|Thorn]]. He is a good-spirited, charitable person who looks to find good and humor in all situations. Some of his mannerisms may come off as a bit goofy, but he is always trying to find a positive resolution.
 
