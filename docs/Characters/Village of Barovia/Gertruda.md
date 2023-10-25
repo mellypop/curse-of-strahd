@@ -1,0 +1,1 @@
+This girl was the former owner of [[../../Party/Lancelot|Lancelot]]. She is rumored to have disappeared recently. Some say she left town; some say she left to get away from her mother, [[./Mary|Mary]].
