@@ -1,7 +1,7 @@
 ---
 aliases:
   - Rictavio
-enemies: "[[./Strahd von Zarovich|Strahd von Zarovich]]"
+enemies: "[[../Enemies/Strahd von Zarovich|Strahd von Zarovich]]"
 ---
 Rudolph (or "Rudy") is a monster hunter who seems to be somewhat on in his years. He showed up to [[../Locations/Halvrest House/index|Halvrest House]] with a cache of equipment and tasked the adventurers with looking for paranormal events around the house.
 
@@ -17,7 +17,7 @@ The first night in [[../Locations/Vallaki/index|Vallaki]], the party hears carni
 
 At the followup conversation...
 
-Every now and then, the mists open, and Rudolph was able to get into [[../Locations/Barovia|Barovia]]. He was mentioned in the [[../Activities/Fortune Reading|Fortune Reading]] as "The Illusionist". He is translating an old journal of [[./Strahd von Zarovich|Strahd von Zarovich]] and is mostly done. While he is translating, he asked the party to search out a wizard, supposedly [[./Morden Caden|Morden Caden]], who is living as a hermit north of Lake Zarchovia. The mad mage of Baratok
+Every now and then, the mists open, and Rudolph was able to get into [[../Locations/Barovia|Barovia]]. He was mentioned in the [[../Activities/Fortune Reading|Fortune Reading]] as "The Illusionist". He is translating an old journal of [[../Enemies/Strahd von Zarovich|Strahd von Zarovich]] and is mostly done. While he is translating, he asked the party to search out a wizard, supposedly [[./Morden Caden|Morden Caden]], who is living as a hermit north of Lake Zarchovia. The mad mage of Baratok
 
 > I bring you from shadow into light
 #house-of-lament

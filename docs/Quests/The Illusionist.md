@@ -11,8 +11,8 @@ status: ongoing
 
 >[!important] [[../Characters/Rudolph van Richten|Rudolph]] has asked the party to meet him at [[../Locations/Halvrest House/Tower|Tower]]
 
-This is one of the five cards drawn during the [[../Activities/Fortune Reading|Fortune Reading]]. Specifically, this card is related to history, which may be knowledge that could be useful in the fight against [[../Characters/Strahd von Zarovich|Strahd von Zarovich]].
+This is one of the five cards drawn during the [[../Activities/Fortune Reading|Fortune Reading]]. Specifically, this card is related to history, which may be knowledge that could be useful in the fight against [[../Enemies/Strahd von Zarovich|Strahd von Zarovich]].
 
-[[../Characters/Rudolph van Richten|Rudolph]] has information about [[../Characters/Strahd von Zarovich|Strahd]] that may prove useful, but it is in an old language that he has not had time to fully translate yet.
+[[../Characters/Rudolph van Richten|Rudolph]] has information about [[../Enemies/Strahd von Zarovich|Strahd]] that may prove useful, but it is in an old language that he has not had time to fully translate yet.
 
 

@@ -5,6 +5,6 @@
 > You say that you are cursed, your fortunes spent. You abandoned love for madness, took solace in the bosom of another woman, and sired a bastard son. Cursed by darkness? Of that I have no doubt. Save you from your wretchedness? I think not. I much prefer you as you are.
 > 
 > Your Dread Lord and Master,
-> [[../../Characters/Strahd von Zarovich|Strahd von Zarovich]]
+> [[../../Enemies/Strahd von Zarovich|Strahd von Zarovich]]
 
 #letter

@@ -2,5 +2,5 @@ Horse carts are clustered around a tent near the top of a hill in the woods. Thi
 
 ## Notes
 
-- Members of this camp are not allowed inside [[./index|Vallaki]], presumably because of the known [[../../Organizations/Vistani|Vistani]] dealings with [[../../Characters/Strahd von Zarovich|Strahd von Zarovich]].
+- Members of this camp are not allowed inside [[./index|Vallaki]], presumably because of the known [[../../Organizations/Vistani|Vistani]] dealings with [[../../Enemies/Strahd von Zarovich|Strahd von Zarovich]].
 

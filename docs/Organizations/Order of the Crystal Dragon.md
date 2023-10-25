@@ -1,4 +1,4 @@
-An ancient order of knights seemingly aiming to defeat [[../Characters/Strahd von Zarovich|Strahd]].
+An ancient order of knights seemingly aiming to defeat [[../Enemies/Strahd von Zarovich|Strahd]].
 
 About 700 years ago but before everyone was cursed to stay in [[../Locations/Barovia|Barovia]]
 
