@@ -1,0 +1,1 @@
+This section houses characters that are not confirmed to be enemies. They are, where possible, organized by their location, but there are several examples of this not being true.
