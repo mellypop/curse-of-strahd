@@ -4,7 +4,10 @@ race: Dragonborn
 class: Cleric
 player: Melody
 role: party
+tags:
+  - party-member
 ---
+
 # Thorn
 
 Class: Death Cleric
