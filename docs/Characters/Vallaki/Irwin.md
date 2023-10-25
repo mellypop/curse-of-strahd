@@ -1,0 +1,1 @@
+Irwin is the cook at the [[../../Locations/Vallaki/Blue Water Inn|Blue Water Inn]] and the husband of [[./Danika|Danika]]
