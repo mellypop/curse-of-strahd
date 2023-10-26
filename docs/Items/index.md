@@ -1,1 +1,0 @@
-This section is to contain notes about story-relevant items and sometimes notable loot. As with many other sections, this is organized by the location in which the thing (in this case item) was found.
