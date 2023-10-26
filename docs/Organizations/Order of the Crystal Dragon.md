@@ -4,4 +4,4 @@ About 700 years ago but before everyone was cursed to stay in [[../Locations/Bar
 
 [[../Characters/Argynvost|Argynvost]] was their leader, and they put up a good fight
 
-Strahd took the skull of the dragon (leader) and has their skull hidden somewhere in [[../Locations/Castle Ravenloft/index|Castle Ravenloft]]
+Strahd took the skull of the dragon (leader) and has their skull hidden somewhere in [[../Locations/Castle Ravenloft/Castle Ravenloft|Castle Ravenloft]]
