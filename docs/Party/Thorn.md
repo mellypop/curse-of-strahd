@@ -52,5 +52,5 @@ One thing that Thorn did remember was her religion. While she isn't entirely sur
 - Thorn wants to recover her memories of her past, but this feels like more of a secondary or tertiary motivator to her.
 
 ## Notes
-- Thorn met [[./Frost over the Grass|Frost over the Grass]], [[../Characters/Daggerford/Leopold Grummél|Leopold Grummél]], and [[./Former Members/Zarathustra|Zarathustra]] on her way to [[../Locations/Halvrest House/Halvrest House|Halvrest House]].
+- Thorn met [[./Frost over the Grass|Frost over the Grass]], [[../Characters/Daggerford/Leopold Grummél|Leopold Grummél]], and [[./Former Members/Zarathustra|Zarathustra]] on her way to [[../Locations/Halvrest House/index|Halvrest House]].
 - Thorn attempted to kill [[./Former Members/Zarathustra|Zarathustra]] after she attacked [[./Thistle|Thistle]] with the [[../Items/Halvrest House/Berserker Axe|Berserker Axe]]. [[./Former Members/Zarathustra|Zarathustra]] seems to have been possessed, having also cut her own leg off after evil earworms left burn marks on it.
