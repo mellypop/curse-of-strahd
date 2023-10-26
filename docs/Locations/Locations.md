@@ -1,0 +1,1 @@
+Keeping track of all the different towns, shops, inns, churches, and orphanages that the party goes to can get complicated. This section is organized into sections that correspond to an important building or town.
