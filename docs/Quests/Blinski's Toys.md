@@ -1,8 +1,8 @@
 ---
+description: The town of Vallaki does not allow [[../Organizations/Vistani|Vistani]] visitors, but Elisa wishes to purchase a toy for Arabel, daughter of Augal. She has asked the party to purchase the gift for her. Arabel's favorite color seems to be blue with the 25g that is given by her. Give the toy to Lou Vaash.
+location: "[[../Locations/Vallaki/index|Vallaki]]"
 questgiver: "[[../Characters/Vistani Camp/Elisa|Elisa]]"
 reward: What is leftover from the 25g
-location: "[[../Locations/Vallaki/index|Vallaki]]"
-description: The town of Vallaki does not allow [[../Organizations/Vistani|Vistani]] visitors, but Elisa wishes to purchase a toy for Arabel, daughter of Augal. She has asked the party to purchase the gift for her. Arabel's favorite color seems to be blue with the 25g that is given by her. Give the toy to Lou Vaash.
 status: complete
 ---
 

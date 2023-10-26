@@ -1,6 +1,6 @@
 ---
 alive: "true"
-class: Barbarian
+classes: Barbarian
 description: 
 player: Elizabeth
 race: Tabaxi

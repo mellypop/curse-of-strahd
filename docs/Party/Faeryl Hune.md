@@ -1,6 +1,6 @@
 ---
 alive: "true"
-class: Warlock
+classes: Warlock
 description: 
 player: Mary
 race: Dark Elf (Drow)

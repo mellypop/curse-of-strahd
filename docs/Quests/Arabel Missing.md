@@ -1,8 +1,8 @@
 ---
+description: Arugal's daughter, Arabel, has gone missing. The party has been asked to look for her, and it seems like she often visits the orphanage in the nearby city to play with the other children.
+location: "[[St. Andril's Orphanage|St. Andril's Orphanage]]"
 questgiver: "[[../Characters/Vallaki/Vistani Camp/Arugal|Arugal]]"
 reward: The guy being tortured for her going missing will be released
-location: "[[../Locations/Vallaki/Vistani Camp|Vistani Camp]]"
-description: Arugal's daughter, Arabel, has gone missing. The party has been asked to look for her, and it seems like she often visits the orphanage in the nearby city to play with the other children.
 status: complete
 ---
 
