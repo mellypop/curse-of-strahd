@@ -6,7 +6,7 @@ type: government
 ---
 
 
-This place is behind the [[./Burgomaster's Mansion|Burgomaster's Mansion]] in [[./index|Vallaki]] and is used to house people who have been judged as guilty of certain higher level crimes.
+This place is behind the [[./Burgomaster's Mansion|Burgomaster's Mansion]] in [[./Vallaki|Vallaki]] and is used to house people who have been judged as guilty of certain higher level crimes.
 
 People don't tend to come out of this place, at least not unchanged. They leave with depression, lethargy, suicidal ideation, and/or memory loss.
 
