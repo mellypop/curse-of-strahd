@@ -1,11 +1,11 @@
 ---
 alive: ✅
-class:
+classes:
   - Blood Hunter
   - Cleric (Nature)
 description: 
 player: Sam
-race: Changling
+race: Changeling
 role: party
 tags:
   - party-member
@@ -15,7 +15,7 @@ tags:
 | ------ | --------------- |
 | **Player** | Sam |
 | **Class**  | Blood Hunter,Cleric (Nature)  |
-| **Race**   | Changling   |
+| **Race**   | Changeling   |
 | **Alive**  | ✅ |
 
 Thistle is a Changeling werewolf who is married to [[./Thorn|Thorn]]. He is a good-spirited, charitable person who looks to find good and humor in all situations. Some of his mannerisms may come off as a bit goofy, but he is always trying to find a positive resolution.
@@ -23,5 +23,3 @@ Thistle is a Changeling werewolf who is married to [[./Thorn|Thorn]]. He is a go
 ## Notes
 - [[../Characters/Daggerford/Leopold Grummél|Leopold Grummél]] augmented Thistle's Battle Axe so that it would return to him when it is thrown.
 - [[./Former Members/Zarathustra|Zarathustra]] attacked Thistle after he attempted to cauterize her heavily bleeding wound from when she amputated her own leg.
-
-#party-member
