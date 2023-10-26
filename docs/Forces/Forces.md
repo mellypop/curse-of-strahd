@@ -1,0 +1,1 @@
+This section is for supernatural forces that the party encounters.
