@@ -3,8 +3,8 @@ associated_notes:
   - "[[Fortune Reading|Fortune Reading]]"
   - "[[../Locations/Krezk/index|Krezk]]"
 description: " There is a Vistana who wanders this land alone searching for her mentor. She does not stay in one place long, but you should be able to seek her out at St. Markovia's abbey, near the mists."
-location: 
-questgiver: 
+location: "[[../Locations/Krezk/St. Markovia's Abbey|St. Markovia's Abbey]]"
+questgiver: "[[Madame Ava|Madame Ava]]"
 reward: An Ally
 status: ongoing
 ---
