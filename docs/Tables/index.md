@@ -1,1 +1,0 @@
-This section is for tables that are used in other notes. Viewing them here may give a less cluttered view of the data.
