@@ -1,4 +1,4 @@
-This page is meant to serve as an overview of recent and ongoing events. Any tables here can be found in the [[./Tables/Tables|Tables]] section if you want less clutter on your screen.
+This page is meant to serve as an overview of recent and ongoing events. Any tables here can be found in the [[./Tables/index|Tables]] section if you want less clutter on your screen.
 # Current Party
 
 

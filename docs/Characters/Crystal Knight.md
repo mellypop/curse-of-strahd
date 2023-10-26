@@ -15,4 +15,4 @@ He may be part of an old order of knights called the [[../Organizations/Order of
 >Return the skull of my master and receive his boon
 
 ## Encounters
-- The party encountered him on the road to [[../Locations/Vallaki/Vallaki|Vallaki]] in combat with several zombies. They assisted him in combat, and afterward he ran off into the woods to hunt for "more enemies"
+- The party encountered him on the road to [[../Locations/Vallaki/index|Vallaki]] in combat with several zombies. They assisted him in combat, and afterward he ran off into the woods to hunt for "more enemies"
