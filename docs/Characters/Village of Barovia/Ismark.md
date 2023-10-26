@@ -4,5 +4,5 @@ This charismatic seeming man joined the party's table at the [[../../Locations/V
 
 He talked about [[../../Enemies/Strahd von Zarovich|Strahd]] having been in the area for a long while with nobody seeming to know his true age, but he would
 
-He approached the party wanting their help in getting his sister to [[../../Locations/Vallaki/index|Vallaki]] as she seems to have gathered [[../../Enemies/Strahd von Zarovich|Strahd]]'s romantic attention.
+He approached the party wanting their help in getting his sister to [[../../Locations/Vallaki/Vallaki|Vallaki]] as she seems to have gathered [[../../Enemies/Strahd von Zarovich|Strahd]]'s romantic attention.
 

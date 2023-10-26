@@ -1,1 +1,1 @@
-This forested area surrounds [[./Lake Zarovich|Lake Zarovich]] and the city of [[./Vallaki/index|Vallaki]].
+This forested area surrounds [[./Lake Zarovich|Lake Zarovich]] and the city of [[./Vallaki/Vallaki|Vallaki]].

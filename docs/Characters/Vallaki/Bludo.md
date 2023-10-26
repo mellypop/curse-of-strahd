@@ -1,4 +1,4 @@
-Bludo is a fisherman who lives in [[../../Locations/Vallaki/index|Vallaki]]. The other townspeople have described him as a particularly sad man, but none of the people, other than his somewhat nosy neighbor, seemed to know him very well.
+Bludo is a fisherman who lives in [[../../Locations/Vallaki/Vallaki|Vallaki]]. The other townspeople have described him as a particularly sad man, but none of the people, other than his somewhat nosy neighbor, seemed to know him very well.
 
 More than one person, [[./Fanya|Fanya]] and Bludo's neighbor included, mentioned hearing of or seeing him with [[./Vistani Camp/Arabel|Arabel]]. His interactions with the young girl were not seen as being sinister or malicious, but Bludo's neighbor and a few of the city guard mentioned that he had mentioned a "good luck charm" that he expected to help his luck with fishing.
 

@@ -1,4 +1,4 @@
-This sheet music was found in the [[../../Locations/Durst Residence/index|Durst Residence]].
+This sheet music was found in the [[../../Locations/Durst Residence/Durst Residence|Durst Residence]].
 
 > Bull Wharton's words can open the way
 

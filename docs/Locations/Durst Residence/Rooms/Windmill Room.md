@@ -4,7 +4,7 @@ floor: 2
 
 # Windmill Room
 
-One set of double doors on the second floor of the [[../index|Durst Residence]] leads to a room with a lot of fancy looking furniture. There is a painting of some kind of windmill. In one of the bookcases here, [[../../../Party/Faeryl Hune|Faeryl Hune]] found a book entitled "[[../../../Items/Durst Residence/The Life and Death of Faeryl Hune|The Life and Death of Faeryl Hune]]".
+One set of double doors on the second floor of the [[../Durst Residence|Durst Residence]] leads to a room with a lot of fancy looking furniture. There is a painting of some kind of windmill. In one of the bookcases here, [[../../../Party/Faeryl Hune|Faeryl Hune]] found a book entitled "[[../../../Items/Durst Residence/The Life and Death of Faeryl Hune|The Life and Death of Faeryl Hune]]".
 
 The party found sheet music entitled "[[../../../Items/Durst Residence/Song for Elisabeth|Song for Elisabeth]]" on which was written a clue: "Bull Wharton's words can open the way". [[../../../Party/Faeryl Hune|Faeryl Hune]] found a book written by a Bull Wharton, and moving that book opened a passage to a small secret area.
 

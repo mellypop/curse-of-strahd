@@ -8,6 +8,6 @@ loot:
 ---
 
 # Mr. Durst's Office
-This office on the second floor of the [[../index|Durst Residence]] seems to be the office of [[../../../Characters/Durst Residence/Gustav Durst|Gustav Durst]].
+This office on the second floor of the [[../Durst Residence|Durst Residence]] seems to be the office of [[../../../Characters/Durst Residence/Gustav Durst|Gustav Durst]].
 
 A key, presumably the one to the locked door in the attic, was found here by [[../../../Party/Thorn|Thorn]].

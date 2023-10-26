@@ -1,0 +1,6 @@
+---
+tags:
+  - town
+type: town
+---
+
