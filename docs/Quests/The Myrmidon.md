@@ -4,7 +4,7 @@ associated_notes:
   - "[[Mother Night|Mother Night]]"
 description: This card tells of a powerful force for good and protection, a holy symbol of great hope…… Look for a den of wolves in the hills overlooking  a mountain lake. The treasure belongs to Mother Night.
 location: 
-questgiver: 
+questgiver: "[[Madame Ava|Madame Ava]]"
 reward: A powerful force for good and protection
 status: ongoing
 ---
