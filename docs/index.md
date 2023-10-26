@@ -1,7 +1,18 @@
-This page is meant to serve as an overview of recent and ongoing events. The tables here can be found in the [[./Tables/index|Tables]] section if you want less clutter on your screen. You can also click on the little chain links above each table to be taken directly to that table.
+This page is meant to serve as an overview of recent and ongoing events. Any tables here can be found in the [[./Tables/index|Tables]] section if you want less clutter on your screen.
 # Current Party
 
-![[./Tables/Current Party|Current Party]]
+
+| Name                                                    | Player    | Race            | Class                                                  |
+| ------------------------------------------------------- | --------- | --------------- | ------------------------------------------------------ |
+| [[./Party/Faeryl Hune\|Faeryl Hune]]                   | Mary      | Dark Elf (Drow) | Warlock                                                |
+| [[./Party/Frost over the Grass\|Frost over the Grass]] | Elizabeth | Tabaxi          | Barbarian                                              |
+| [[./Party/Lucia\|Lucia]]                               | Elizabeth | ???             | Ranger                                                 |
+| [[./Party/Thistle\|Thistle]]                           | Sam       | Changling       | <ul><li>Blood Hunter</li><li>Cleric (Nature)</li></ul> |
+| [[./Party/Thorn\|Thorn]]                               | Melody    | Dragonborn      | Cleric                                                 |
+
+
+^9fcc7c
+
 
 # Ongoing
 ## Open Questions
