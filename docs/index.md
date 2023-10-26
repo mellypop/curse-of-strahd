@@ -6,16 +6,16 @@ This page is meant to serve as an overview of recent and ongoing events. Any tab
 | ------------------------------------------------------- | --------- | --------------- | ------------------------------------------------------ |
 | [[./Party/Faeryl Hune\|Faeryl Hune]]                   | Mary      | Dark Elf (Drow) | Warlock                                                |
 | [[./Party/Frost over the Grass\|Frost over the Grass]] | Elizabeth | Tabaxi          | Barbarian                                              |
-| [[./Party/Lucia\|Lucia]]                               | Elizabeth | ???             | Ranger                                                 |
-| [[./Party/Thistle\|Thistle]]                           | Sam       | Changling       | <ul><li>Blood Hunter</li><li>Cleric (Nature)</li></ul> |
-| [[./Party/Thorn\|Thorn]]                               | Melody    | Dragonborn      | Cleric                                                 |
-
-
-^9fcc7c
+| [[./Party/Lucia\|Lucia]]                               | Elizabeth | ???             | <ul><li>Ranger</li></ul>                               |
+| [[./Party/Thistle\|Thistle]]                           | Sam       | Changeling      | <ul><li>Blood Hunter</li><li>Cleric (Nature)</li></ul> |
+| [[./Party/Thorn\|Thorn]]                               | Melody    | Dragonborn      | <ul><li>Cleric</li></ul>                               |
 
 
 # Ongoing
 ## Open Questions
+
+- Where is [[./Party/Frost over the Grass|Frost over the Grass]]?
+- Where is the [[./Items/Vallaki/Bag of Holding|Bag of Holding]]
 
 ## Quests
 - [[./Quests/Investigate Kidnappings in Daggerford|Investigate Kidnappings in Daggerford]]
