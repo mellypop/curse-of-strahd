@@ -1,7 +1,6 @@
 ---
 alive: "true"
-classes:
-  - Cleric
+classes: Cleric
 description: A pale white Dragonborn woman whose skin is covered with translucent emerald scales. Two segmeted horns curl backward, outward, and upward from her head, and she wears an eyepatch over her right eye.
 name: Thorn
 player: Melody
