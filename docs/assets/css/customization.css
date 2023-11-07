@@ -47,3 +47,8 @@ DONT FORGET TO EDIT THE URL
 .admonition.wiki table {
     border: 0;
 }
+
+span.md-status--dead::after {
+    background: url(../img/skull.svg);
+    height: 1.125em;
+}
