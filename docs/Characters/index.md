@@ -1,1 +1,1 @@
-This section houses characters that are not confirmed to be enemies. They are, where possible, organized by their location, but there are several examples of this not being true.
+This section houses characters that are not confirmed to be enemies. They are, where possible, organized by their current location, but when the location of a character is not certain, their note will be in their last known location.
