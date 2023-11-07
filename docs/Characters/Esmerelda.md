@@ -1,1 +1,1 @@
-A former "pupil" of [[./Rudolph van Richten|Rudolph van Richten]] who was supposedly more aggressive in her drive to fight [[../Enemies/Strahd von Zarovich|Strahd von Zarovich]]. She may be the ally that the [[../Activities/Fortune Reading|Fortune Reading]] spoke of.
+A former "pupil" of [[Rudolph van Richten|Rudolph van Richten]] who was supposedly more aggressive in her drive to fight [[Strahd von Zarovich|Strahd von Zarovich]]. She may be the ally that the [[Fortune Reading|Fortune Reading]] spoke of.
