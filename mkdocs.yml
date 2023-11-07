@@ -82,6 +82,8 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+not_in_nave:
+  - /tags.md
 plugins:
   - search
   - meta-descriptions
