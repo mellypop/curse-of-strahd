@@ -6,4 +6,4 @@ description: "Several children of Daggerford have been kidnapped in the middle o
 reward:
 ---
 
-Several children of Daggerford have been kidnapped in the middle of the night. The townspeople believe this to possibly be the work of werewolves. The [[../Characters/Duchess|Duchess]] has requested help in investigating this.
+Several children of Daggerford have been kidnapped in the middle of the night. The townspeople believe this to possibly be the work of werewolves. The [[Duchess|Duchess]] has requested help in investigating this.
