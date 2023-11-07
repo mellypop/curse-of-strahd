@@ -8,12 +8,12 @@ tags:
 
 Formerly known as "Ruins of Castle Laventz", this manor house stands in disrepair connected to a tower from the original castle.
 
-[[../../Forces/The Mists|The Mists]] seems to fully surround the house now, but when the group arrived, it had parted to lead them all in.
+[[Forces/The Mists|Forces/The Mists]] seems to fully surround the house now, but when the group arrived, it had parted to lead them all in.
 
-[[../../Characters/Rudolph van Richten|Rudolph van Richten]] was unpacking some equipment at the house when the party arrived.
+[[Rudolph van Richten|Rudolph van Richten]] was unpacking some equipment at the house when the party arrived.
 
 ## Notes
-- [[../../Characters/Halvrest House/Loren Halvrest|Loren Halvrest]] was the most recent owner of this house, but since she found the [[../../Items/Halvrest House/Deed to the House|Deed to the House]], [[../../Party/Thorn|Thorn]] is might be its actual current owner.
-- Previous owners of the castle include [[../../Characters/Halvrest House/Lady Mara Silvra|Lady Mara Silvra]], [[../../Characters/Halvrest House/Dalk Dranzorg|Dalk Dranzorg]], and [[../../Characters/Halvrest House/Lord Cordon Silvra|Lord Cordon Silvra]].
+- [[Loren Halvrest|Loren Halvrest]] was the most recent owner of this house, but since she found the [[Deed to the House|Deed to the House]], [[Thorn|Thorn]] is might be its actual current owner.
+- Previous owners of the castle include [[Lady Mara Silvra|Lady Mara Silvra]], [[Dalk Dranzorg|Dalk Dranzorg]], and [[Lord Cordon Silvra|Lord Cordon Silvra]].
 
 #house-of-lament

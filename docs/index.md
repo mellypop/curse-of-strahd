@@ -1,27 +1,36 @@
-This page is meant to serve as an overview of recent and ongoing events. Any tables here can be found in the [[./Tables/index|Tables]] section if you want less clutter on your screen.
+This page is meant to serve as an overview of recent and ongoing events. Any tables here can be found in the [[Tables|Tables]] section if you want less clutter on your screen.
+
 # Current Party
 
--> [[./Tables/Current Party|Current Party]]
+
+| Name                                                    | Player    | Race            | Class                                                  |
+| ------------------------------------------------------- | --------- | --------------- | ------------------------------------------------------ |
+| [[Party/Faeryl Hune.md\|Faeryl Hune]]                   | Mary      | Dark Elf (Drow) | Warlock                                                |
+| [[Party/Frost over the Grass.md\|Frost over the Grass]] | Elizabeth | Tabaxi          | Barbarian                                              |
+| [[Party/Lucia.md\|Lucia]]                               | Elizabeth | ???             | Ranger                                                 |
+| [[Party/Thistle.md\|Thistle]]                           | Sam       | Changeling      | <ul><li>Blood Hunter</li><li>Cleric (Nature)</li></ul> |
+| [[Party/Thorn.md\|Thorn]]                               | Melody    | Dragonborn      | Cleric                                                 |
+
 
 # Ongoing
 ## Open Questions
 
-- Where is [[./Party/Frost over the Grass|Frost over the Grass]]?
-- Where is the [[./Items/Vallaki/Bag of Holding|Bag of Holding]]
+- Where is [[Frost over the Grass|Frost over the Grass]]?
+- Where is the [[Bag of Holding|Bag of Holding]]
 
 ## Quests
-- [[./Quests/Investigate Kidnappings in Daggerford|Investigate Kidnappings in Daggerford]]
-- [[./Quests/Kidnap Victor|Kidnap Victor]]
-- [[./Quests/Recover Missing Church Property|Recover Missing Church Property]]
-- [[./Quests/The Avenger|The Avenger]]
-- [[./Quests/The Broken One|The Broken One]]
-- [[./Quests/The Illusionist|The Illusionist]]
-- [[./Quests/The Myrmidon|The Myrmidon]]
-- [[./Quests/The Mists|The Mists]]
+- [[Quests/Investigate Kidnappings in Daggerford.md|Investigate Kidnappings in Daggerford]]
+- [[Quests/Kidnap Victor.md|Kidnap Victor]]
+- [[Quests/Recover Missing Church Property.md|Recover Missing Church Property]]
+- [[Quests/The Avenger.md|The Avenger]]
+- [[Quests/The Broken One.md|The Broken One]]
+- [[Quests/The Illusionist.md|The Illusionist]]
+- [[Quests/The Myrmidon.md|The Myrmidon]]
+- [[Quests/The Mists.md|The Mists]]
 
 # Sessions
-- [[./Sessions/2023-10-15|2023-10-15]]
-- [[./Sessions/2023-08-26|2023-08-26]]
-- [[./Sessions/2023-08-06|2023-08-06]]
-- [[./Sessions/2023-06-18|2023-06-18]]
-- [[./Sessions/2022-11-21|2022-11-21]]
+- [[Sessions/2023-10-15.md|2023-10-15]]
+- [[Sessions/2023-08-26.md|2023-08-26]]
+- [[Sessions/2023-08-06.md|2023-08-06]]
+- [[Sessions/2023-06-18.md|2023-06-18]]
+- [[Sessions/2022-11-21.md|2022-11-21]]

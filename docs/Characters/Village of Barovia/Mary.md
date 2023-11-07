@@ -1,1 +1,1 @@
-Mother of [[./Gertruda|Gertruda]]
+Mother of [[Gertruda|Gertruda]]

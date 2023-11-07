@@ -1,1 +1,1 @@
-This lake is in the west of [[./Barovia|Barovia]] but is east of [[./Krezk/index|Krezk]]. 
+This lake is in the west of [[Barovia|Barovia]] but is east of [[Krezk|Krezk]]. 

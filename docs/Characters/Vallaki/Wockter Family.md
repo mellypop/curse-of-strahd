@@ -1,1 +1,1 @@
-This family is supposedly against "being happy" and therefore against [[./Burgomaster Vargas|Burgomaster Vargas]]
+This family is supposedly against "being happy" and therefore against [[Burgomaster Vargas|Burgomaster Vargas]]

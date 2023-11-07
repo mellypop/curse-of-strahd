@@ -1,1 +1,1 @@
-[[./Arabel|Arabel]]'s dad
+[[Arabel|Arabel]]'s dad

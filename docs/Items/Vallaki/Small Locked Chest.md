@@ -1,1 +1,1 @@
-This chest was found behind a false back in a wardrobe in the [[../../Locations/Vallaki/Reformation Center|Reformation Center]]. The party does not have the tools to open it, so [[../../Party/Thorn|Thorn]] is holding onto it.
+This chest was found behind a false back in a wardrobe in the [[Reformation Center|Reformation Center]]. The party does not have the tools to open it, so [[Thorn|Thorn]] is holding onto it.
