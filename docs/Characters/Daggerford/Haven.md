@@ -1,3 +1,7 @@
-Haven is the blacksmith of [[../../Locations/Daggerford/Trade of the Tools|Trade of the Tools]].
+---
+tags:
+  - blacksmith
+---
 
-#blacksmith
+
+Haven is the blacksmith of [[Trade of the Tools|Trade of the Tools]].

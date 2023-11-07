@@ -14,5 +14,3 @@ Theodora is the wife of [[Loren Halvrest|Loren Halvrest]] and the mother of [[Re
 
 ## Notes
 - The children talked about how their mother "prayed really hard" for their protection, and since the door to the [[Locations/Halvrest House/Rooms/Childrens' Bedroom|Locations/Halvrest House/Rooms/Childrens' Bedroom]] was emblazoned with the symbol of [[Ezra|Ezra]], Theodora may be a follower of Ezra.
-
-#house-of-lament #spirit
