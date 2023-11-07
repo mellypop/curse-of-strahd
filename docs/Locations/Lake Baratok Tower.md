@@ -1,1 +1,1 @@
-This tower stands near [[./Lake Baratok|Lake Baratok]].
+This tower stands near [[Lake Baratok|Lake Baratok]].
