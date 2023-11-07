@@ -1,4 +1,10 @@
 ---
+children:
+  - "[[Regan Halvrest|Regan Halvrest]]"
+  - "[[Vastion Halvrest|Vastion Halvrest]]"
+parents: 
+partners:
+  - "[[Theodora Halvrest|Theodora Halvrest]]"
 status: dead
 tags:
   - house-of-lament
@@ -15,5 +21,3 @@ In the encounter with his children, the party was told that he was killed by [[T
 - [[Theodora Halvrest|Theodora Halvrest]] - Wife
 - [[Regan Halvrest|Regan Halvrest]] - Daughter
 - [[Vastion Halvrest|Vastion Halvrest]] - Son
-
-#house-of-lament #spirit
