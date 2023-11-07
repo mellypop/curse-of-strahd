@@ -49,6 +49,6 @@ DONT FORGET TO EDIT THE URL
 }
 
 span.md-status--dead::after {
-    background: url(../img/skull.svg);
+    mask-image: url(../img/skull.svg);
     height: 1.125em;
 }
