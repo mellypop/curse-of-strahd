@@ -6,9 +6,9 @@ This page is meant to serve as an overview of recent and ongoing events. Any tab
 | ------------------------------------------------------- | --------- | --------------- | ------------------------------------------------------ |
 | [[./Party/Faeryl Hune\|Faeryl Hune]]                   | Mary      | Dark Elf (Drow) | Warlock                                                |
 | [[./Party/Frost over the Grass\|Frost over the Grass]] | Elizabeth | Tabaxi          | Barbarian                                              |
-| [[./Party/Lucia\|Lucia]]                               | Elizabeth | ???             | <ul><li>Ranger</li></ul>                               |
+| [[./Party/Lucia\|Lucia]]                               | Elizabeth | ???             | Ranger                                                 |
 | [[./Party/Thistle\|Thistle]]                           | Sam       | Changeling      | <ul><li>Blood Hunter</li><li>Cleric (Nature)</li></ul> |
-| [[./Party/Thorn\|Thorn]]                               | Melody    | Dragonborn      | <ul><li>Cleric</li></ul>                               |
+| [[./Party/Thorn\|Thorn]]                               | Melody    | Dragonborn      | Cleric                                                 |
 
 
 # Ongoing
@@ -21,11 +21,11 @@ This page is meant to serve as an overview of recent and ongoing events. Any tab
 - [[./Quests/Investigate Kidnappings in Daggerford|Investigate Kidnappings in Daggerford]]
 - [[./Quests/Kidnap Victor|Kidnap Victor]]
 - [[./Quests/Recover Missing Church Property|Recover Missing Church Property]]
+- [[./Quests/The Avenger|The Avenger]]
+- [[./Quests/The Broken One|The Broken One]]
 - [[./Quests/The Illusionist|The Illusionist]]
 - [[./Quests/The Myrmidon|The Myrmidon]]
-- [[./Quests/The Avenger|The Avenger]]
 - [[./Quests/The Mists|The Mists]]
-- [[./Quests/The Broken One|The Broken One]]
 
 # Sessions
 - [[./Sessions/2023-10-15|2023-10-15]]
