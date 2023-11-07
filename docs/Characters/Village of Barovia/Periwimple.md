@@ -1,1 +1,1 @@
-The nephew of [[./Uncle Bildrath|Uncle Bildrath]]
+The nephew of [[Uncle Bildrath|Uncle Bildrath]]
