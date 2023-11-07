@@ -1,6 +1,8 @@
+site_author: mellypop
 site_name: Curse of Strahd
 site_description: A web-based browsable version of my Strahd DnD notes
 site_url: https://mellypop.github.io/curse-of-strahd/ # Change this to your site URL
+repo_url: https://github.com/mellypop/curse-of-strahd
 
 theme:
     name: 'material'
@@ -31,6 +33,7 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
     features:
+        - content.tooltips
         - navigation.indexes
         - navigation.path
         - navigation.top
@@ -39,6 +42,7 @@ theme:
         - navigation.expand
         - search.suggest
         - search.highlight
+        - tooltipster-links
         
 # Extensions
 markdown_extensions:
