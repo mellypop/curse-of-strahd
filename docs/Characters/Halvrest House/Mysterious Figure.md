@@ -8,5 +8,3 @@ On their way to the house, the party encountered this figure who stood in the ro
 
 ## Notes
 - After this figure's disappearance, the party found 5 [[Feathers|Feathers]] and the [[Planchette|Planchette]] where it was standing.
-
-#house-of-lament 
