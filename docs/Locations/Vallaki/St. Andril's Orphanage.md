@@ -8,7 +8,7 @@ type: orphanage
 ---
 
 
-In a church of the [[Morning Lord|Morning Lord]] the size of a two story house, is this orphanage. While it is not run down, it is not particularly decadent.
+In a church of the [[Lathander|Lathander]] the size of a two story house, is this orphanage. While it is not run down, it is not particularly decadent.
 
 [[Father Lucian Petrovich|Father Lucian Petrovich]] is the priest here.
 
