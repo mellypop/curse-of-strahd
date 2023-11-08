@@ -1,1 +1,8 @@
+---
+tags:
+  - organization
+type: race
+---
+
+
 The Vistani are a traveling group of people who the party first encountered in the [[Village of Barovia|Village of Barovia]]. Many of the local people have a deep mistrust for the Vistani, seemingly viewing them as being in league with [[Strahd von Zarovich|Strahd]] with whom they have an agreement that allows them to travel between [[Barovia|Barovia]] and the rest of the world. This pact has reportedly lasted for the better part of 600 years.

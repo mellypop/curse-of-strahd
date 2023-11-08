@@ -18,6 +18,10 @@ This page is meant to serve as an overview of recent and ongoing events. Any tab
 - Where is [[Frost over the Grass|Frost over the Grass]]?
 - Where is the [[Bag of Holding|Bag of Holding]]
 
+## Old Questions
+- Are [[Muriel|Muriel]] and the [[Mysterious Figure|Mysterious Figure]] the same person?
+- We have a [[Deed to the Windmill|Deed to the Windmill]], and we know of a [[Windmill|Windmill]]. Do we own said [[Windmill|Windmill]]?
+
 ## Quests
 - [[Quests/Investigate Kidnappings in Daggerford.md|Investigate Kidnappings in Daggerford]]
 - [[Quests/Kidnap Victor.md|Kidnap Victor]]
