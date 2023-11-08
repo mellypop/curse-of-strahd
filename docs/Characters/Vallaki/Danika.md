@@ -1,3 +1,25 @@
+---
+age: 
+aliases: 
+alive: "true"
+children: 
+classes: 
+description: 
+height: 
+location: "[[Blue Water Inn|Blue Water Inn]]"
+partners:
+  - "[[Irwin|Irwin]]"
+pronouns: she/her
+race: 
+status: 
+tags:
+  - ally
+  - innkeeper
+---
+
+>[!quote] \-
+
+
 Seemingly the one with the business sense running the [[Blue Water Inn|Blue Water Inn]], Danika is the wife of [[Irwin|Irwin]]. She seems to be tired of his goodhearted attempts to serve guests food without compensation.
 
 ## Notes
