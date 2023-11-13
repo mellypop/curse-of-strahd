@@ -1,6 +1,6 @@
 ---
 location: "[[Locations/Vallaki/Vistani Camp|Vistani Camp]]"
-owner: "[[Frost over the Grass|Frost over the Grass]]"
+owner: "[[Lucia|Lucia]]"
 quest: "[[Arabel Missing|Arabel Missing]]"
 url: https://www.dndbeyond.com/magic-items/4581-bag-of-holding
 ---
