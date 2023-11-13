@@ -1,4 +1,4 @@
-![deploy](https://github.com/mellypop/curse-of-strahd/.github/workflows/deploy.yml/badge.svg)
+![deploy](https://github.com/mellypop/curse-of-strahd/actions/workflows/deploy.yml/badge.svg)
 
 # Curse of Strahd Notes
 
