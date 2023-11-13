@@ -15,8 +15,9 @@ This page is meant to serve as an overview of recent and ongoing events. Any tab
 # Ongoing
 ## Open Questions
 
-- Where is [[Frost over the Grass|Frost over the Grass]]?
-- Where is the [[Bag of Holding|Bag of Holding]]
+- Should we accept [[Strahd von Zarovich|Strahd]]'s [[Dinner Invitation|Dinner Invitation]]?
+- Is [[Volenta|Volenta]] the reason [[Felix|Felix]] is dead?
+	- Did she have [[Milivolj|Milivolj]] steal the sacred bones of St. Andril?
 
 ## Old Questions
 - Are [[Muriel|Muriel]] and the [[Mysterious Figure|Mysterious Figure]] the same person?
@@ -29,10 +30,11 @@ This page is meant to serve as an overview of recent and ongoing events. Any tab
 - [[Quests/The Avenger.md|The Avenger]]
 - [[Quests/The Broken One.md|The Broken One]]
 - [[Quests/The Illusionist.md|The Illusionist]]
-- [[Quests/The Myrmidon.md|The Myrmidon]]
 - [[Quests/The Mists.md|The Mists]]
+- [[Quests/The Myrmidon.md|The Myrmidon]]
 
 # Sessions
+- [[Sessions/2023-11-12.md|2023-11-12]]
 - [[Sessions/2023-10-15.md|2023-10-15]]
 - [[Sessions/2023-08-26.md|2023-08-26]]
 - [[Sessions/2023-08-06.md|2023-08-06]]
