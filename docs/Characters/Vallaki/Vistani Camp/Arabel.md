@@ -1,1 +1,1 @@
-A young [[Vistani|Vistani]] girl who is the daughter of [[Lou Vaash|Lou Vaash]]. 
+A young [[Vistani|Vistani]] girl who is the daughter of [[Lou Vaash|Lou Vaash]].
