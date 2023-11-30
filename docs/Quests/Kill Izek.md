@@ -6,6 +6,6 @@ reward: ???
 status: complete
 ---
 
-[[Fiona Wachter|Fiona Wachter]] has asked the party to kill [[Izek Strazni|Izek Strazni]] because he is the only reason that people have not yet risen up against [[Burgomaster Vargas|Burgomaster Vargas]] who has plagued [[Locations/Vallaki/Vallaki|Locations/Vallaki/Vallaki]] with his incessant festivals and extreme punishments.
+[[Fiona Wachter|Fiona Wachter]] has asked the party to kill [[Izek Strazni|Izek Strazni]] because he is the only reason that people have not yet risen up against [[Burgomaster Vargas|Burgomaster Vargas]] who has plagued [[Vallaki|Vallaki]] with his incessant festivals and extreme punishments.
 
 She has offered to help the party in any way that she can.
