@@ -1,5 +1,5 @@
 ---
-discoveredAt: "[[Locations/Vallaki/Vistani Camp|Vistani Camp]]"
+discoveredAt: "[[Locations/Barovia/Vallaki/Vistani Camp|Vistani Camp]]"
 owner: "[[Thorn|Thorn]]"
 tags:
   - letter
@@ -9,7 +9,7 @@ type: letter
 
 
 
-After the incident at [[St. Andril's Church|St. Andril's Church]] and resting in the [[Locations/Vallaki/Vistani Camp|Vistani Camp]], the group received this letter from [[Strahd von Zarovich|Strahd von Zarovich]].
+After the incident at [[St. Andril's Church|St. Andril's Church]] and resting in the [[Locations/Barovia/Vallaki/Vistani Camp|Vistani Camp]], the group received this letter from [[Strahd von Zarovich|Strahd von Zarovich]].
 
 >My friends,
 >

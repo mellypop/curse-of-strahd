@@ -16,4 +16,4 @@ tags:
 
 >[!quote] \-
 
-At the encampment near [[Locations/Vallaki/Vallaki|Locations/Vallaki/Vallaki]], he is the leader. He lives with his brother [[Lou Vaash|Lou Vaash]].
+At the encampment near [[Vallaki|Vallaki]], he is the leader. He lives with his brother [[Lou Vaash|Lou Vaash]].

@@ -16,7 +16,7 @@ Occasionally he will ask the group to perform [[Seances|Seances]] with him in or
 
 ## What?
 ------
-The first night in [[Locations/Vallaki/Vallaki|Locations/Vallaki/Vallaki]], the party hears carnival music played outside the [[Blue Water Inn|Blue Water Inn]]. When they went to investigate, [[Thistle|Thistle]] realizes that he was looking at Rudolph. Here, Rudolph is dressed in bright clothes and seems to be acting as an entertainer, mostly for children. He puts on a puppet show under the name Rictavio, and afterward, the party interrogates him. He acts as if he doesn't know them but looks to be somewhat afraid of speaking openly. 
+The first night in [[Vallaki|Vallaki]], the party hears carnival music played outside the [[Blue Water Inn|Blue Water Inn]]. When they went to investigate, [[Thistle|Thistle]] realizes that he was looking at Rudolph. Here, Rudolph is dressed in bright clothes and seems to be acting as an entertainer, mostly for children. He puts on a puppet show under the name Rictavio, and afterward, the party interrogates him. He acts as if he doesn't know them but looks to be somewhat afraid of speaking openly. 
 
 At the followup conversation...
 

@@ -2,14 +2,14 @@
 associated_notes:
   - "[[Fortune Reading|Fortune Reading]]"
 description: This card tells of history. Knowledge of the ancient will help you better understand your enemy……A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.
-location: "[[Lake Baratok Tower|Lake Baratok Tower]]"
+location: "[[Rictavio's Tower|Rictavio's Tower]]"
 questgiver: "[[Madame Ava|Madame Ava]]"
 reward: Knowledge that may help us better understand Strahd
 status: ongoing
 ---
 >[!note] This card is a reference to [[Rudolph van Richten|Rudolph van Richten]]
 
->[!important] [[Rudolph van Richten|Rudolph]] has asked the party to meet him at [[Lake Baratok Tower|Lake Baratok Tower]]
+>[!important] [[Rudolph van Richten|Rudolph]] has asked the party to meet him at [[Rictavio's Tower|Rictavio's Tower]]
 
 This is one of the five cards drawn during the [[Fortune Reading|Fortune Reading]]. Specifically, this card is related to history, which may be knowledge that could be useful in the fight against [[Strahd von Zarovich|Strahd von Zarovich]].
 
