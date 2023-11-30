@@ -1,8 +1,8 @@
 ---
-location: "[[Locations/Vistani Camp/Vistani Camp|Vistani Camp]]"
+location: "[[Locations/Barovia/Vistani Camp/Vistani Camp|Vistani Camp]]"
 ---
 
-At the [[Locations/Vistani Camp/Vistani Camp|Locations/Vistani Camp/Vistani Camp]], the party is given the opportunity to have their future read. This reading was done with a deck of cards.
+At the [[Locations/Barovia/Vistani Camp/Vistani Camp|Locations/Barovia/Vistani Camp/Vistani Camp]], the party is given the opportunity to have their future read. This reading was done with a deck of cards.
 
 ![[reading.jpeg|400]]
 
