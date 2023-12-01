@@ -1,5 +1,5 @@
 ---
-location: "[[Locations/Barovia/Vallaki/Vistani Camp|Vistani Camp]]"
+location: "[[Locations/Vallaki/Vistani Camp|Vistani Camp]]"
 owner: "[[Lucia|Lucia]]"
 quest: "[[Arabel Missing|Arabel Missing]]"
 url: https://www.dndbeyond.com/magic-items/4581-bag-of-holding
