@@ -48,7 +48,7 @@ Another, even smaller spare bedroom has roughly the same contents as the previou
 A storage room here contains many sheet covered shapes, seemingly being covered chests, furniture, and perhaps art, suites of armor, or mannequins. [[Margaret|Margaret]]'s body is found in one of the chests here, seemingly murdered and covered in blood. [[Faeryl Hune|Faeryl Hune]] found a [[Gold ring|Gold ring]] here.
 
 #### Rooms
-- [[Locations/Barovia/Durst Residence/Rooms/Childrens' Bedroom|Children's Bedroom]]
+- [[Locations/Durst Residence/Rooms/Childrens' Bedroom|Children's Bedroom]]
 - [[Spare Room|Spare Room]]
 - [[Storage Room|Storage Room]]
 

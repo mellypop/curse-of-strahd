@@ -9,7 +9,7 @@ type: inn
 ---
 
 
-After leaving [[Locations/Barovia/Vallaki/Blinski's Toys|Blinski's Toys]], the party sees a [[Raven|Raven]] on the top of this building.
+After leaving [[Locations/Vallaki/Blinski's Toys|Blinski's Toys]], the party sees a [[Raven|Raven]] on the top of this building.
 
 There is a woman, [[Danika|Danika]] at the bar who seems to be wearing fairly fancy clothes with her hair pulled back into a bun. Her her has a few gray streaks throughout, and she has black feathers stuck in her hair.
 
