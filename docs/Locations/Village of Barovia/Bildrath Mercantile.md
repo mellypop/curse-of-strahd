@@ -1,5 +1,17 @@
-This is the general store of the [[Village of Barovia|Village of Barovia]].
+---
+characters:
+  - "[[Periwimple|Periwimple]]"
+  - "[[Bildrath|Bildrath]]"
+description: 
+owner: "[[Bildrath|Bildrath]]"
+parentLocation: "[[Village of Barovia|Village of Barovia]]"
+quests:
+  - "[[Goods Reclamation|Goods Reclamation]]"
+type: shop
+sessions: 
+tags:
+  - location
+  - store
+---
 
-The storekeeper here is [[Uncle Bildrath|Uncle Bildrath]]
-
-[[Periwimple|Periwimple]] also w
+This general store is owned by [[Bildrath|Bildrath]] and is the only general store in the [[Village of Barovia|Village of Barovia]]. [[Periwimple|Periwimple]] works here with his uncle and seems to provide security.

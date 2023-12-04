@@ -1,1 +1,1 @@
-The shopowner of [[Bildrath Mercantile|Bildrath Mercantile]]. He seems to be the kind of shopkeep who is looking to make as much money as possible by having unreasonable prices, which he can get away with because his is the only shop in town.
+The shopkeep of [[Bildrath Mercantile|Bildrath Mercantile]]. He seems to be the kind of shopkeep who is looking to make as much money as possible by having unreasonable prices, which he can get away with because his is the only shop in town.

@@ -1,4 +1,20 @@
-Sorvia is the third of the three women who own the [[../../Locations/Village of Barovia/Locations/Blood on the Vine|Blood on the Vine]].
+---
+age: 
+aliases: 
+alive: 
+children: 
+classes: 
+description: 
+height: 
+location: "[[Blood on the Vine|Blood on the Vine]]"
+partners: 
+pronouns: she/her
+race: Vistani
+tags:
+  - character
+  - npc
+---
 
-#Vistani
+>[!quote] \-
 
+Sorvia is the third of the three women who own the [[Blood on the Vine|Blood on the Vine]].

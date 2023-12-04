@@ -1,1 +1,1 @@
-The tavern master at the [[Blood on the Vine|Blood on the Vine]]. He seems to have a habit of absentmindedly cleaning the same glass, putting it between cleanings. He also does not seem to be interested in keeping up a conversation further than taking an order.
+The tavern master at the [[Blood on the Vine|Blood on the Vine]]. He seems to have a habit of absentmindedly cleaning the same glass, putting it down between cleanings. He also does not seem to be interested in keeping up a conversation further than taking an order.
