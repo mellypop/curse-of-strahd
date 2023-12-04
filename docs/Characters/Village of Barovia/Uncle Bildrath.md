@@ -1,1 +1,0 @@
-The shopkeeper of [[Bildrath Mercantile|Bildrath Mercantile]]
