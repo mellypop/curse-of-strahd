@@ -4,12 +4,13 @@ owner: "[[Thorn|Thorn]]"
 tags:
   - letter
   - strahd
+  - item
 type: letter
 ---
 
 
 
-After the incident at [[St. Andril's Church|St. Andril's Church]] and resting in the [[Locations/Vallaki/Vistani Camp|Vistani Camp]], the group received this letter from [[Strahd von Zarovich|Strahd von Zarovich]].
+After the incident at [[St. Andril's Church|St. Andril's Church]] and resting in the [[Locations/Vallaki/Vistani Camp|Vistani Camp]], the group received a letter bearing the seal of [[Strahd von Zarovich|Strahd von Zarovich]] from [[Arugal|Arugal]].
 
 >My friends,
 >
