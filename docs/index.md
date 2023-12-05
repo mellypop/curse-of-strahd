@@ -6,9 +6,9 @@ This page is meant to serve as an overview of recent and ongoing events. Any tab
 | Name                                                    | Player    | Race            | Class                                                  |
 | ------------------------------------------------------- | --------- | --------------- | ------------------------------------------------------ |
 | [[Party/Faeryl Hune.md\|Faeryl Hune]]                   | Mary      | Dark Elf (Drow) | Warlock                                                |
-| [[Party/Frost over the Grass.md\|Frost over the Grass]] | Elizabeth | Tabaxi          | Barbarian                                              |
-| [[Party/Lucia.md\|Lucia]]                               | Elizabeth | ???             | Ranger                                                 |
 | [[Party/Thistle.md\|Thistle]]                           | Sam       | Changeling      | <ul><li>Blood Hunter</li><li>Cleric (Nature)</li></ul> |
+| [[Party/Lucia.md\|Lucia]]                               | Elizabeth | ???             | Ranger                                                 |
+| [[Party/Frost over the Grass.md\|Frost over the Grass]] | Elizabeth | Tabaxi          | Barbarian                                              |
 | [[Party/Thorn.md\|Thorn]]                               | Melody    | Dragonborn      | Cleric                                                 |
 
 
@@ -16,6 +16,7 @@ This page is meant to serve as an overview of recent and ongoing events. Any tab
 ## Open Questions
 
 - Should we accept [[Strahd von Zarovich|Strahd]]'s [[Dinner Invitation|Dinner Invitation]]?
+	- Will he be mad if we don't?
 - Is [[Volenta|Volenta]] the reason [[Felix|Felix]] is dead?
 	- Did she have [[Milivolj|Milivolj]] steal the sacred bones of St. Andril?
 
