@@ -1,1 +1,1 @@
-This book is crafted to look like information about various demons. It is the book that [[Claudia Belasco|Claudia Belasco]]
+This book is crafted to look like information about various demons. It is the book that [[../../Characters/Vallaki/Claudia Belasco|Claudia Belasco]]
