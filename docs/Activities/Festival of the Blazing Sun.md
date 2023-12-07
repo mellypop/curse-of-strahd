@@ -1,8 +1,8 @@
 ---
-location: "[[Vallaki|Vallaki]]"
+location: "[[../Locations/Vallaki/index|Vallaki]]"
 ---
 
-A flier in [[Vallaki|Vallaki]] says the following:
+A flier in [[../Locations/Vallaki/index|Vallaki]] says the following:
 > Come one, come all!
 > To the Greatest Celebration of the Year:
 > The Festival of the Blazing Sun!
@@ -11,4 +11,4 @@ A flier in [[Vallaki|Vallaki]] says the following:
 > All Will Be Well!
 > -The Baron-
 
-![[festival-of-the-blazing-sun.jpeg|festival-of-the-blazing-sun.jpeg]]
+![[../Images/Activities/festival-of-the-blazing-sun.jpeg|festival-of-the-blazing-sun.jpeg]]

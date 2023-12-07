@@ -1,9 +1,9 @@
 # Durst Residence
-The party entered this house, seemingly at the behest of [[Rosalda Durst|Rosalda Durst]] and [[Thornbolt Durst|Thornbolt Durst]] in order to save their baby brother [[Walter Durst|Walter Durst]]. They were told that he could be found on the third floor, so the party's first goal was to get up there.
+The party entered this house, seemingly at the behest of [[../../Characters/Durst Residence/Rosalda Durst|Rosalda Durst]] and [[../../Characters/Durst Residence/Thornbolt Durst|Thornbolt Durst]] in order to save their baby brother [[../../Characters/Durst Residence/Walter Durst|Walter Durst]]. They were told that he could be found on the third floor, so the party's first goal was to get up there.
 
 ## Locations
 ### First Floor
-Since the goal was to find [[Walter Durst|Walter Durst]], the party did not initially explore the first floor other than the entryway and the area where the stairwell was.
+Since the goal was to find [[../../Characters/Durst Residence/Walter Durst|Walter Durst]], the party did not initially explore the first floor other than the entryway and the area where the stairwell was.
 
 From the little bit the party was able to see on the first floor, the house looked recently lived in and fairly well taken care of.
 
@@ -14,10 +14,10 @@ The second floor landing leads to a small entryway with 4 suites of armor, each 
 
 #### Rooms
 
-- [[Mr. Durst's Office|Office]]
-- [[Music Room (Durst Residence)|Music Room]]
-- [[Servant's Quarters|Servant's Quarters]]
-- [[Windmill Room|Windmill Room]]
+- [[./Rooms/Mr. Durst's Office|Office]]
+- [[./Rooms/Music Room (Durst Residence)|Music Room]]
+- [[./Rooms/Servant's Quarters|Servant's Quarters]]
+- [[./Rooms/Windmill Room|Windmill Room]]
 
 ### Third Floor
 Directly across from the stairs is another suit of armor with a wolf's head. The majority of this floor looks very dusty and unkept, much unlike the first floor, which looked to be much more recently lived in.
@@ -27,34 +27,34 @@ One of the other doors leads to a bathroom. A second door leads to a linen close
 A wall from the second bedroom opens up to a staircase. This staircase leads up and seems to be even more worn than the rest of the house.
 
 #### Rooms
-- [[Margaret's Room|Margaret's Room]]
-- [[Nursery|Nursery]]
-- [[Master Bedroom (Durst Residence)|Master Bedroom]]
+- [[./Rooms/Margaret's Room|Margaret's Room]]
+- [[./Rooms/Nursery|Nursery]]
+- [[./Rooms/Master Bedroom (Durst Residence)|Master Bedroom]]
 
 #### Encounters
-- Upon approach, the [[Suit of Armor|Suit of Armor]] comes alive and attacks the party
-- The spirit of [[Margaret|Margaret]] first interacts with the party here, telling them not to wake baby [[Walter Durst|Walter Durst]]. She then led the party to the next floor.
+- Upon approach, the [[../../Enemies/Durst Residence/Suit of Armor|Suit of Armor]] comes alive and attacks the party
+- The spirit of [[../../Characters/Durst Residence/Margaret|Margaret]] first interacts with the party here, telling them not to wake baby [[../../Characters/Durst Residence/Walter Durst|Walter Durst]]. She then led the party to the next floor.
 
 ### Fourth floor/Attic
 
 In the landing for this floor, cobwebs extend from floor to ceiling. It is pitch black in here, even the windows are dusted over so heavily that they let no light in.
 
-The ghost of [[Margaret|Margaret]] appears to lead the party into a locked room.
+The ghost of [[../../Characters/Durst Residence/Margaret|Margaret]] appears to lead the party into a locked room.
 
 A small, spare room has basic furniture in it, but there does not seem to be anything of note in here.
 
 Another, even smaller spare bedroom has roughly the same contents as the previous one
 
-A storage room here contains many sheet covered shapes, seemingly being covered chests, furniture, and perhaps art, suites of armor, or mannequins. [[Margaret|Margaret]]'s body is found in one of the chests here, seemingly murdered and covered in blood. [[Faeryl Hune|Faeryl Hune]] found a [[Gold ring|Gold ring]] here.
+A storage room here contains many sheet covered shapes, seemingly being covered chests, furniture, and perhaps art, suites of armor, or mannequins. [[../../Characters/Durst Residence/Margaret|Margaret]]'s body is found in one of the chests here, seemingly murdered and covered in blood. [[../../Party/Faeryl Hune|Faeryl Hune]] found a [[../../Items/Durst Residence/Gold ring|Gold ring]] here.
 
 #### Rooms
-- [[Locations/Durst Residence/Rooms/Childrens' Bedroom|Children's Bedroom]]
-- [[Spare Room|Spare Room]]
-- [[Storage Room|Storage Room]]
+- [[./Rooms/Childrens' Bedroom|Children's Bedroom]]
+- [[./Rooms/Spare Room|Spare Room]]
+- [[./Rooms/Storage Room|Storage Room]]
 
 #### Childrens' Room
 
-The door to this room was locked at first. Inside, there are two beds, a [[Dollhouse|Dollhouse]] that looks suspiciously like the house. On the floor are the skeletal remains of what seems to be the two Durst children.
+The door to this room was locked at first. Inside, there are two beds, a [[../../Items/Durst Residence/Dollhouse|Dollhouse]] that looks suspiciously like the house. On the floor are the skeletal remains of what seems to be the two Durst children.
 
 After entering this room, the spirits of the two children appeared. Rose looks to have used a spell to repair a toy of her brother's.
 

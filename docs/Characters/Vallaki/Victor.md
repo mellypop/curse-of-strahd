@@ -1,1 +1,1 @@
-The son of [[Burgomaster Vargas|Burgomaster Vargas]].
+The son of [[./Burgomaster Vargas|Burgomaster Vargas]].

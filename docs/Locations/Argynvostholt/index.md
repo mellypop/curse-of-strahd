@@ -6,4 +6,4 @@ tags:
 type: house
 ---
 
-This place served as the home base for the [[Order of the Crystal Dragon|Order of the Crystal Dragon]].
+This place served as the home base for the [[../../Organizations/Order of the Crystal Dragon|Order of the Crystal Dragon]].

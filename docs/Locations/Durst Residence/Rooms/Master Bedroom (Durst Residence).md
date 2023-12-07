@@ -14,4 +14,4 @@ loot:
 ---
 
 # Master Bedroom
-This room appears to be [[Elisabeth Durst|Elisabeth Durst]] and [[Gustav Durst|Gustav Durst]]'s bedroom'. In it, what appears to be the body of the [[Gustav Durst|Gustav Durst]] is hanging from the ceiling, looking to be a dead ghast. In the dressers in this room, [[Thistle|Thistle]] found 3 [[Gold ring|Gold ring]]s and a [[Platinum Necklace|Platinum Necklace]]. There was also a [[Mysterious Letter from Mrs. Durst|Mysterious Letter from Mrs. Durst]].
+This room appears to be [[../../../Characters/Durst Residence/Elisabeth Durst|Elisabeth Durst]] and [[../../../Characters/Durst Residence/Gustav Durst|Gustav Durst]]'s bedroom'. In it, what appears to be the body of the [[../../../Characters/Durst Residence/Gustav Durst|Gustav Durst]] is hanging from the ceiling, looking to be a dead ghast. In the dressers in this room, [[../../../Party/Thistle|Thistle]] found 3 [[../../../Items/Durst Residence/Gold ring|Gold ring]]s and a [[../../../Items/Durst Residence/Platinum Necklace|Platinum Necklace]]. There was also a [[../../../Items/Durst Residence/Mysterious Letter from Mrs. Durst|Mysterious Letter from Mrs. Durst]].

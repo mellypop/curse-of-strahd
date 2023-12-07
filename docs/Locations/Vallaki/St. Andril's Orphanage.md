@@ -8,9 +8,9 @@ type: orphanage
 ---
 
 
-In a church of the [[Lathander|Lathander]] the size of a two story house, is this orphanage. While it is not run down, it is not particularly decadent.
+In a church of the [[../../Deities/Lathander|Lathander]] the size of a two story house, is this orphanage. While it is not run down, it is not particularly decadent.
 
-[[Father Lucian Petrovich|Father Lucian Petrovich]] is the priest here.
+[[../../Characters/Vallaki/Father Lucian Petrovich|Father Lucian Petrovich]] is the priest here.
 
 ## Related Quests
-- [[Recover Missing Church Property|Recover Missing Church Property]]
+- [[../../Quests/Recover Missing Church Property|Recover Missing Church Property]]

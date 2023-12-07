@@ -1,10 +1,10 @@
 ---
 children:
-  - "[[Regan Halvrest|Regan Halvrest]]"
-  - "[[Vastion Halvrest|Vastion Halvrest]]"
+  - "[[./Regan Halvrest|Regan Halvrest]]"
+  - "[[./Vastion Halvrest|Vastion Halvrest]]"
 parents: 
 partners:
-  - "[[Theodora Halvrest|Theodora Halvrest]]"
+  - "[[./Theodora Halvrest|Theodora Halvrest]]"
 status: dead
 tags:
   - house-of-lament
@@ -13,11 +13,11 @@ tags:
 
 Loren Halfrest was the patriarch of the Halvrest family and also the first to die.
 
-[[Loren's Death Certificate|Loren's Death Certificate]] was found in the [[The Office|The Office]] on othe second floor when [[Thorn|Thorn]] mysteriously vanished during the first night. According to the death certificate, he died of "tenacious deviltry of the lung".
+[[../../Items/Halvrest House/Loren's Death Certificate|Loren's Death Certificate]] was found in the [[../../Locations/Halvrest House/Rooms/The Office|The Office]] on othe second floor when [[../../Party/Thorn|Thorn]] mysteriously vanished during the first night. According to the death certificate, he died of "tenacious deviltry of the lung".
 
-In the encounter with his children, the party was told that he was killed by [[The Hungry Things|The Hungry Things]]
+In the encounter with his children, the party was told that he was killed by [[./The Hungry Things|The Hungry Things]]
 
 ## Family
-- [[Theodora Halvrest|Theodora Halvrest]] - Wife
-- [[Regan Halvrest|Regan Halvrest]] - Daughter
-- [[Vastion Halvrest|Vastion Halvrest]] - Son
+- [[./Theodora Halvrest|Theodora Halvrest]] - Wife
+- [[./Regan Halvrest|Regan Halvrest]] - Daughter
+- [[./Vastion Halvrest|Vastion Halvrest]] - Son

@@ -1,1 +1,1 @@
-The son of [[Father Donovich|Father Donovich]].
+The son of [[./Father Donovich|Father Donovich]].
