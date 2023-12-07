@@ -21,6 +21,6 @@ marker: default,14.065537571907043,18.462703704833984,[[Windmill]]
 
 It is said that traveling in Barovia at night is dangerous, especially on foot. Wolves and other strange creatures roam this land.
 
-For the most part, Barovia is a land cut off from the rest of the world by [[Forces/The Mists|The Mists]]. Every so often, unwitting people enter, but none (besides the [[Vistani|Vistani]]) seem to be able to leave. Inter-town travel seems to be a rarity as well, most likely due to the inherent danger in travelling these lands.
+For the most part, Barovia is a land cut off from the rest of the world by [[../Forces/The Mists|The Mists]]. Every so often, unwitting people enter, but none (besides the [[../Organizations/Vistani|Vistani]]) seem to be able to leave. Inter-town travel seems to be a rarity as well, most likely due to the inherent danger in travelling these lands.
 
-But one mysterious person seems known to all who inhabit Barovia: [[Strahd von Zarovich|Strahd von Zarovich]].
+But one mysterious person seems known to all who inhabit Barovia: [[../Enemies/Strahd von Zarovich|Strahd von Zarovich]].
