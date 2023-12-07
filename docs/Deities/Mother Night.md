@@ -3,4 +3,4 @@ tags:
   - deity
 ---
 
-A deity of [[Barovia|Barovia]]
+A deity of [[../Locations/Barovia|Barovia]]
