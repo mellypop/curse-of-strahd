@@ -8,4 +8,4 @@ questgiver: "[[Madame Ava|Madame Ava]]"
 reward: A powerful force for good and protection
 status: ongoing
 ---
-The mountain lake spoken of here could be [[Lake Zarovich|Lake Zarovich]] or maybe [[Luna Lake|Luna Lake]] since both of them are lakes near mountains that have hills nearby.
+The mountain lake spoken of here could be [[../Locations/Lake Zarovich|Lake Zarovich]] or maybe [[../Locations/Luna Lake|Luna Lake]] since both of them are lakes near mountains that have hills nearby.
