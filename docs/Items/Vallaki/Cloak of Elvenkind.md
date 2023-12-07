@@ -1,1 +1,1 @@
-Found in the [[Reformation Center|Reformation Center]] and currently held by [[Thistle|Thistle]].
+Found in the [[../../Locations/Vallaki/Reformation Center|Reformation Center]] and currently held by [[../../Party/Thistle|Thistle]].
