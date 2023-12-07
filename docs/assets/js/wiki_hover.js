@@ -59,7 +59,7 @@ function calculateHeight(firstPara) {
 }
 
 try {
- tippy(`.md-content a[href^="${blogURL}"], a.footnote-ref, a[href^="./"]`, {
+ tippy(`.md-content a[href^="${blogURL}"], a.footnote-ref, a[href^="./"], p a[href^=${blogURL}]`, {
    content: "",
    allowHTML: true,
    animation: "scale-subtle",
