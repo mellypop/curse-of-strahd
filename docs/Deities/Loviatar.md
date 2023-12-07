@@ -11,6 +11,6 @@ tags:
 Loviatar appeared as a slim, beautiful human maiden, with straight, thigh-length, platinum-blonde hair. She dressed in either black leather embellished with outlandish spikes or revealing white silks decorated with silver chains. She was cold and sinister in demeanor, speaking softly and moving with sensual grace. Her black blood was thick, like syrup.
 
 Symbol of Loviatar:
-![[Symbol of Loviatar.jpeg|Symbol of Loviatar.jpeg]]
+![[../Images/Symbol of Loviatar.jpeg|Symbol of Loviatar.jpeg]]
 
-Loviatar is the deity that [[Thorn|Thorn]] serves.
+Loviatar is the deity that [[../Party/Thorn|Thorn]] serves.
