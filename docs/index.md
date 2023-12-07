@@ -2,15 +2,7 @@ This page is meant to serve as an overview of recent and ongoing events. Any tab
 
 # Current Party
 
-
-| Name                                                    | Player    | Race            | Class                                                  |
-| ------------------------------------------------------- | --------- | --------------- | ------------------------------------------------------ |
-| [[Party/Faeryl Hune.md\|Faeryl Hune]]                   | Mary      | Dark Elf (Drow) | Warlock                                                |
-| [[Party/Thistle.md\|Thistle]]                           | Sam       | Changeling      | <ul><li>Blood Hunter</li><li>Cleric (Nature)</li></ul> |
-| [[Party/Lucia.md\|Lucia]]                               | Elizabeth | ???             | Ranger                                                 |
-| [[Party/Frost over the Grass.md\|Frost over the Grass]] | Elizabeth | Tabaxi          | Barbarian                                              |
-| [[Party/Thorn.md\|Thorn]]                               | Melody    | Dragonborn      | Cleric                                                 |
-
+![[Current Party|Current Party]]
 
 # Ongoing
 ## Open Questions
@@ -18,21 +10,27 @@ This page is meant to serve as an overview of recent and ongoing events. Any tab
 - Should we accept [[Strahd von Zarovich|Strahd]]'s [[Dinner Invitation|Dinner Invitation]]?
 	- Will he be mad if we don't?
 - Is [[Volenta|Volenta]] the reason [[Felix|Felix]] is dead?
-	- Did she have [[Milivolj|Milivolj]] steal the sacred bones of St. Andril?
+	- Did she have [[Milivolj|Milivolj]] steal the sacred bones of [[St. Andril|St. Andril]]?
 
 ## Old Questions
 - Are [[Muriel|Muriel]] and the [[Mysterious Figure|Mysterious Figure]] the same person?
 - We have a [[Deed to the Windmill|Deed to the Windmill]], and we know of a [[Windmill|Windmill]]. Do we own said [[Windmill|Windmill]]?
 
 ## Quests
-- [[Quests/Investigate Kidnappings in Daggerford.md|Investigate Kidnappings in Daggerford]]
-- [[Quests/Kidnap Victor.md|Kidnap Victor]]
+
+### Active
 - [[Quests/Recover Missing Church Property.md|Recover Missing Church Property]]
 - [[Quests/The Avenger.md|The Avenger]]
 - [[Quests/The Broken One.md|The Broken One]]
 - [[Quests/The Illusionist.md|The Illusionist]]
 - [[Quests/The Mists.md|The Mists]]
 - [[Quests/The Myrmidon.md|The Myrmidon]]
+
+### Old
+
+- [[Quests/Investigate Kidnappings in Daggerford.md|Investigate Kidnappings in Daggerford]]
+- [[Quests/Kidnap Victor.md|Kidnap Victor]]
+
 
 # Sessions
 - [[Sessions/2023-11-12.md|2023-11-12]]
