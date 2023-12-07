@@ -1,5 +1,5 @@
 ---
-questgiver: "[Bildrath](../Characters/Village%20of%20Barovia/Bildrath.md)"
+questgiver: "[[../Characters/Village of Barovia/Bildrath|Bildrath]]"
 reward:
   - 1x backpack
   - 1x crowbar
@@ -8,7 +8,7 @@ reward:
   - 1x tinderbox
   - 1x waterskin
   - 15g
-location: "[Village of Barovia](Village%20of%20Barovia.md)"
+location: "[[Village of Barovia|Village of Barovia]]"
 status: complete
 ---
 2 explorer's packs
@@ -16,5 +16,5 @@ status: complete
 15g
 Healing potion
 
-[Bildrath](../Characters/Village%20of%20Barovia/Bildrath.md) asked the party to go and reclaim some goods he had sold to a previous group of travellers.
+[[../Characters/Village of Barovia/Bildrath|Bildrath]] asked the party to go and reclaim some goods he had sold to a previous group of travellers.
 
