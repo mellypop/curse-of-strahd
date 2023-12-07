@@ -6,9 +6,9 @@ children:
 classes: 
 description: 
 height: 
-location: "[[Blue Water Inn|Blue Water Inn]]"
+location: "[[../../Locations/Vallaki/Blue Water Inn|Blue Water Inn]]"
 partners:
-  - "[[Irwin|Irwin]]"
+  - "[[./Irwin|Irwin]]"
 pronouns: she/her
 race: 
 status: 
@@ -20,7 +20,7 @@ tags:
 >[!quote] \-
 
 
-Seemingly the one with the business sense running the [[Blue Water Inn|Blue Water Inn]], Danika is the wife of [[Irwin|Irwin]]. She seems to be tired of his goodhearted attempts to serve guests food without compensation.
+Seemingly the one with the business sense running the [[../../Locations/Vallaki/Blue Water Inn|Blue Water Inn]], Danika is the wife of [[./Irwin|Irwin]]. She seems to be tired of his goodhearted attempts to serve guests food without compensation.
 
 ## Notes
-* When asked about [[Muriel|Muriel]], Danika claims that she is her family who comes by to visit from time to time but who travels all around.
+* When asked about [[./Muriel|Muriel]], Danika claims that she is her family who comes by to visit from time to time but who travels all around.
