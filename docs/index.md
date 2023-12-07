@@ -5,6 +5,7 @@ This page is meant to serve as an overview of recent and ongoing events. Any tab
 ![[Current Party|Current Party]]
 
 # Ongoing
+<a class="wikilink" href="/Locations">Locations</a>
 ## Open Questions
 
 - Should we accept [[Strahd von Zarovich|Strahd]]'s [[Dinner Invitation|Dinner Invitation]]?
