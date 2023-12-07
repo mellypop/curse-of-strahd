@@ -1,1 +1,1 @@
-The nephew of [[Bildrath|Bildrath]] who seems to provide security for [[Bildrath Mercantile|Bildrath Mercantile]].
+The nephew of [[./Bildrath|Bildrath]] who seems to provide security for [[../../Locations/Village of Barovia/Bildrath Mercantile|Bildrath Mercantile]].
