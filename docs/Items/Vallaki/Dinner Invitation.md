@@ -1,5 +1,5 @@
 ---
-discoveredAt: "[[Locations/Vallaki/Vistani Camp|Vistani Camp]]"
+discoveredAt: "[[../../Locations/Vallaki/Vistani Camp|Vistani Camp]]"
 owner: "[[Thorn|Thorn]]"
 tags:
   - letter
@@ -10,7 +10,7 @@ type: letter
 
 
 
-After the incident at [[St. Andril's Church|St. Andril's Church]] and resting in the [[Locations/Vallaki/Vistani Camp|Vistani Camp]], the group received a letter bearing the seal of [[Strahd von Zarovich|Strahd von Zarovich]] from [[Arugal|Arugal]].
+After the incident at [[../../Locations/Vallaki/St. Andril's Church|St. Andril's Church]] and resting in the [[../../Locations/Vallaki/Vistani Camp|Vistani Camp]], the group received a letter bearing the seal of [[../../Enemies/Strahd von Zarovich|Strahd von Zarovich]] from [[../../Characters/Vallaki/Vistani Camp/Arugal|Arugal]].
 
 >My friends,
 >
