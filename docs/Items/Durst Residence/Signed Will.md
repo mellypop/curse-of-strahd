@@ -1,1 +1,1 @@
-Supposedly the will for [[Gustav Durst|Gustav Durst]], this was found in his office.
+Supposedly the will for [[../../Characters/Durst Residence/Gustav Durst|Gustav Durst]], this was found in his office.
